@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @swagata-sasmal
-- 👀 I’m interested in Cryptology
+- 👀 I’m interested in 
+            - Cryptology
+            - Blockchain Technology
 - 🌱 I’m currently learning to code better
 - 💞️ I’m looking to collaborate on projects 
 
